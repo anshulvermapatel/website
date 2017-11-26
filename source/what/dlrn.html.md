@@ -17,7 +17,7 @@ The basic DLRN flow is:
     - Create a YUM repository with that package, and the latest build package for the other packages
     - If a package build fails, open a review in [the RDO Gerrit](https://review.rdoproject.org) to track and fix the issue.
 
-The result of each DLRN run is an [RDO Trunk repository](/what/workflow-overview/), containing the latest commit from each supported OpenStack project, ready to be consumed.
+The result of each DLRN run is an [RDO Trunk repository](/workflow-overview/), containing the latest commit from each supported OpenStack project, ready to be consumed.
 
 ## Tips and tricks
 
